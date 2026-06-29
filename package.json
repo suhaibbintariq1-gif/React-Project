@@ -1,5 +1,9 @@
 {
-  "devDependencies": {
-    "tailwindcss": "^3.4.19"
+  "name": "my-react-app-workspace",
+  "private": true,
+  "scripts": {
+    "dev": "cd \"react projects for interview perspective\" && npm run dev",
+    "dev:bg": "cd \"BG changer\" && npm run dev",
+    "dev:password": "cd \"password generator\" && npm run dev"
   }
 }
